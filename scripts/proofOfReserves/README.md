@@ -24,3 +24,5 @@ You can copy the exact command from a comment at the top of each script, after t
 The corresponding contracts are defined in `contracts/proofOfReserves/<FileName.ts>`.
 
 For an in-depth guide on the Proof of reserves, go to the [Flare Developer Hub](https://dev.flare.network/fdc/guides/hardhat/proof-of-reserves).
+
+<!-- Auto-update: 2025-10-16T08:26:23.928070 -->
